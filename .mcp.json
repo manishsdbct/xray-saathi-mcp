@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "xray-saathi": {
+      "command": "/Users/manishgarg/Documents/xray-saathi-mcp/.venv/bin/xray-saathi-mcp",
+      "env": {
+        "XRAY_SAATHI_API_URL": "http://localhost:8000",
+        "XRAY_SAATHI_DATABASE_URL": "sqlite:////Users/manishgarg/Documents/xray-saathi/data/xray_saathi.db"
+      }
+    }
+  }
+}
